@@ -134,21 +134,6 @@ const App: React.FC = () => (
               C
             </Checkbox>
           </Col>
-          <Col span={8}>
-            <Checkbox value="D" style={{ lineHeight: '32px' }}>
-              D
-            </Checkbox>
-          </Col>
-          <Col span={8}>
-            <Checkbox value="E" style={{ lineHeight: '32px' }}>
-              E
-            </Checkbox>
-          </Col>
-          <Col span={8}>
-            <Checkbox value="F" style={{ lineHeight: '32px' }}>
-              F
-            </Checkbox>
-          </Col>
         </Row>
       </Checkbox.Group>
     </Form.Item>
